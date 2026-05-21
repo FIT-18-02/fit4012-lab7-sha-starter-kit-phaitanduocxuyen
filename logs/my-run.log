@@ -1,0 +1,15 @@
+C:\Users\User\CLionProjects\fit4012-lab7-sha-starter-kit-phaitanduocxuyen\cmake-build-debug\sha256.exe --self-test
+[PASS] input=""
+expected: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+actual  : e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+[PASS] input="abc"
+expected: ba7816bf8f01cfea414140de5dae2223b00361a396177a9cb410ff61f20015ad
+actual  : ba7816bf8f01cfea414140de5dae2223b00361a396177a9cb410ff61f20015ad
+
+[PASS] input="hello FIT4012 SHA"
+expected: e942ae0ecb44fe48e1490144162fc64e9c3c6c399bb4e2d686532195cdc3eae6
+actual  : e942ae0ecb44fe48e1490144162fc64e9c3c6c399bb4e2d686532195cdc3eae6
+
+
+Process finished with exit code 0
